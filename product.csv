@@ -1,0 +1,16 @@
+Category,Name,Price(JPY),Origin
+Food,Apple,100,Japan
+Food,Banana,80,Philippines
+Food,Beef,500,Australia
+Food,Egg,120,Domestic
+Food,Pasta,200,Italy
+Appliances,TV,50000,Japan
+Appliances,Washing Machine,30000,Korea
+Appliances,Refrigerator,40000,China
+Appliances,Computer,80000,Taiwan
+Appliances,Air Conditioner,60000,Japan
+Books,Novel,1500,Domestic
+Books,Technical Book,3000,Domestic
+Books,Picture Book,800,Domestic
+Books,Magazine,500,Domestic
+Books,Manga,400,Domestic
